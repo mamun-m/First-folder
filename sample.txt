@@ -6,3 +6,4 @@ featured1 branch is working .
 
 branch editing software system .
 
+featured2 is working branch .
